@@ -1,4 +1,4 @@
-<h1 align="left">👋Sup. My name is Phakday Russell</h1>
+<h1 align="left">👋Sup. My name is Phakday</h1>
 <p align="left">I'm a student studying computer science :[</p>
 
 <h2 align="left">About Me</h2>
